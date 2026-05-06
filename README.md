@@ -4,7 +4,7 @@
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :---: | :---: | :---: |
-| Reinoso, Thiago | rinnsosoq@gmail.com | [ver perfil](https://github.com/thiagoreinoso098) |
+| Grinovero, Bautista | bautistagrino@gmail.com | [ver perfil](https://github.com/bautii2090/estacion-metereologica.git) |
 
 
 
